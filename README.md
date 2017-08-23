@@ -1,7 +1,5 @@
 CSC220 Programming Project#4
 ============================
- 
-Due Date: 11:55pm, Sunday, 5/14 *** No late projects will be accepted ****
 
 - Upload a zip file, including PlayingCard.java and VideoPoker.java, to ilearn
 
